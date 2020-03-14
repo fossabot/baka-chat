@@ -1,4 +1,6 @@
 # Baka Chat
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhotonQuantum%2Fbaka-chat.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhotonQuantum%2Fbaka-chat?ref=badge_shield)
+
 
 A toy chat bot which uses a simple LSTM model to generate replies to inputs.
 
@@ -33,3 +35,5 @@ See [Dockerfile](Dockerfile) and [Dockerfile_train](Dockerfile_train) for detail
 ## License
 
 This project is licensed under GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FPhotonQuantum%2Fbaka-chat.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FPhotonQuantum%2Fbaka-chat?ref=badge_large)
